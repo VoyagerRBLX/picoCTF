@@ -1,4 +1,6 @@
 # The Numbers Writeup PicoCTF (Lang: English 🇺🇸)
+## Why the Numbers?
+The reason why I chose the Numbers as my TechSeed writeup project is because of it's uniqueness. Out of all assignments I did, this one was the most unique because it required me to de-cipher rather than coding or inputting commands. This is by far my favorite challenge.
 ## Description
 The numbers... what do they mean?
 ## Hint
